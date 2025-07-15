@@ -9,7 +9,7 @@ i clear my full responsibility from any harm or damages
 
 2 create a discord bot
 
-3 go to [](https://discord.com/developers/applications)
+3 go to (https://discord.com/developers/applications)
 
 4 add bot to your server
 
