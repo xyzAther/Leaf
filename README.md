@@ -1,4 +1,9 @@
-STEPS
+Important. 
+
+i clear my full responsibility from any harm or damages 
+
+
+**STEPS**
 
 1 request your data from discord 
 
@@ -29,5 +34,3 @@ STEPS
 13 make sure it is online in your server
 
 use manus to extract the discord ids and use the !convert (ids) in bulk or single one to get its user, id, current profile picture.
-
-
